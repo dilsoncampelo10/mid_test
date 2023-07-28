@@ -17,4 +17,4 @@ function vowelCount($word)
 
 $sentence = "My name is Dilson";
 $result = vowelCount($sentence);
-echo "Amount of vowels: $result";
+echo "Amount of vowels: " . $result . PHP_EOL;
