@@ -21,5 +21,5 @@ function getPalindrome($word)
 $word1 = "php";
 $word2 = "word";
 
-echo getPalindrome($word1) . "\n";
-echo getPalindrome($word2) . "\n";
+echo getPalindrome($word1) . PHP_EOL;
+echo getPalindrome($word2) . PHP_EOL;

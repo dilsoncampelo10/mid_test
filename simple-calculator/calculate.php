@@ -13,12 +13,12 @@ $calc4 = new Calculator(25, 5, "/");
 //wrong
 $calc5 = new Calculator(25, 5, "f");
 
-echo $calc->calculate()."\n";
+echo $calc->calculate() . PHP_EOL;
 
-echo $calc2->calculate()."\n";
+echo $calc2->calculate() . PHP_EOL;
 
-echo $calc3->calculate()."\n";
+echo $calc3->calculate() . PHP_EOL;
 
-echo $calc4->calculate()."\n";
+echo $calc4->calculate() . PHP_EOL;
 
-echo $calc5->calculate()."\n";
+echo $calc5->calculate() . PHP_EOL;
